@@ -1,8 +1,13 @@
-$primaryColor: #10b981 !default;
+// Theme Specific Variables
+$primaryColor: #00b2c4;
+$primaryDarkColor: #037690;
+$primaryDarkerColor: #012f3a;
+$primaryTextColor: #ffffff;
+
+$secondaryButtonBg:#037690 !default;
+$secondaryButtonBorder:1px solid #037690 !default;
+
 $primaryLightColor: #a7f3d0 !default;
-$primaryDarkColor: #059669 !default;
-$primaryDarkerColor: #047857 !default;
-$primaryTextColor: #ffffff !default;
 
 $highlightBg: #F0FDFA !default;
 $highlightTextColor: $primaryDarkerColor !default;
